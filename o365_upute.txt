@@ -1,1 +1,16 @@
+nuget:
+
+Microsoft.IdentityModel.Extensions
+----------Microsoft.IdentityModel.Protocol.Extensions
 SharePointPnPCoreOnline
+Microsoft.IdentityModel.Clients.ActiveDirectory
+
+
+https://rbasfb.sharepoint.com/Demo1/_layouts/15/start.aspx#/SitePages/Home.aspx
+
+https://dev.office.com/app-registration
+app name Igor02
+Native app
+http://localhost:8000
+
+client id: 458c0ce5-b322-4f55-bc5e-5f9391a57812
